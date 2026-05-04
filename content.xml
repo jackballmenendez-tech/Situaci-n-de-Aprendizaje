@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>universal</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505001327DNKT1F</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505001327SEEDN9</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de Aprendizaje B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Jack Ball Menéndez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje para el alumnado de 6º de Educación Primaria del área de artística y música.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>universal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777932744192</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-morekjw1-k4pskczmu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>De músicos a directores: ¡Creamos, interpretamos y producimos música!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>De músicos a directores: ¡Creamos, interpretamos y producimos música!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>De músicos a directores: ¡Creamos, interpretamos y producimos música!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morekjw1-k4pskczmu</odePageId>
+      <odeBlockId>block-1777913845241-j5lrh4h3u</odeBlockId>
+      <blockName>Descripción de la Situación de Aprendizaje</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morekjw1-k4pskczmu</odePageId>
+          <odeBlockId>block-1777913845241-j5lrh4h3u</odeBlockId>
+          <odeIdeviceId>idevice-1777913845217-xxac8qw0p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Etapa educativa y nivel al que se dirige</strong><br />La presente Situación de Aprendizaje se dirige al alumnado de Educación Primaria, concretamente al Tercer Ciclo (6º curso), en coherencia con el desarrollo de la competencia artística y digital en esta etapa, favoreciendo la creatividad, la interpretación musical y el uso responsable de herramientas tecnológicas.</p>
+<p style="text-align: justify;"><strong>Áreas, materias y/o módulos implicados</strong><br />Esta propuesta tiene un carácter interdisciplinar, siendo el área de Educación Artística (Música) el eje principal. Además, se establecen conexiones con: <br />Competencia Digital, a través del uso de herramientas de edición de audio y vídeo.<br />Educación en Valores Cívicos y Éticos, fomentando el trabajo cooperativo, el respeto y la responsabilidad.<br /> <br /><strong>Agrupamientos y organización espacial</strong><br />Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se plantean agrupamientos variados y flexibles, combinando trabajo individual (práctica instrumental en el teclado), trabajo en parejas (grabación y edición del vídeo) y trabajo cooperativo en grupos de 4-5 alumnos (elaboración de la infografía), además de momentos en gran grupo para audiciones, reflexión y la puesta en común. La actividad se desarrollará principalmente en el aula de música y el aula ordinaria/TIC y para la grabación. <br /><br /><strong>Temporalización</strong><br />La Situación de Aprendizaje se desarrollará a lo largo de 6 sesiones de 45 minutos, distribuidas entre la introducción y contextualización, la investigación y creación de la infografía, la práctica instrumental con teclado, la grabación del vídeo y su posterior edición y presentación final.<br /> <br /><strong>Productos del alumnado</strong><br />El alumnado elaborará una infografía interactiva sobre los instrumentos de la orquesta, realizará la interpretación individual de una pieza musical en teclado y creará un vídeo musical (videoclip) en parejas de su interpretación, en el que se incluya la grabación y edición de audio y vídeo, evidenciando así el desarrollo de la competencia artística y digital. Estos productos permiten evidenciar tanto el aprendizaje musical como el desarrollo de la competencia digital.</p>
+<p><strong>Herramientas tecnológicas y recursos</strong><br />Para el desarrollo de la propuesta se utilizarán:</p>
+<p>- Canva: creación de la infografía interactiva.<br />- Genially: creación de la infografía interactiva.<br />- Audacity: edición básica de audio.<br />- CapCut: edición de vídeo y audio.<br />- Tablets del centro para grabación y edición.<br />- Aula virtual o plataforma educativa para compartir los productos.<br /></p>
+<p>Recursos complementarios: <br />- Vídeos educativos de YouTube sobre la orquesta.<br />- Materiales elaborados por el docente (rúbricas, guías, partituras adaptadas, actividades de repaso interactivas...).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777913845217-xxac8qw0p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Etapa educativa y nivel al que se dirige</strong><br />La presente Situación de Aprendizaje se dirige al alumnado de Educación Primaria, concretamente al Tercer Ciclo (6º curso), en coherencia con el desarrollo de la competencia artística y digital en esta etapa, favoreciendo la creatividad, la interpretación musical y el uso responsable de herramientas tecnológicas.</p>\n<p style=\"text-align: justify;\"><strong>Áreas, materias y/o módulos implicados</strong><br />Esta propuesta tiene un carácter interdisciplinar, siendo el área de Educación Artística (Música) el eje principal. Además, se establecen conexiones con: <br />Competencia Digital, a través del uso de herramientas de edición de audio y vídeo.<br />Educación en Valores Cívicos y Éticos, fomentando el trabajo cooperativo, el respeto y la responsabilidad.<br /> <br /><strong>Agrupamientos y organización espacial</strong><br />Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se plantean agrupamientos variados y flexibles, combinando trabajo individual (práctica instrumental en el teclado), trabajo en parejas (grabación y edición del vídeo) y trabajo cooperativo en grupos de 4-5 alumnos (elaboración de la infografía), además de momentos en gran grupo para audiciones, reflexión y la puesta en común. La actividad se desarrollará principalmente en el aula de música y el aula ordinaria/TIC y para la grabación. <br /><br /><strong>Temporalización</strong><br />La Situación de Aprendizaje se desarrollará a lo largo de 6 sesiones de 45 minutos, distribuidas entre la introducción y contextualización, la investigación y creación de la infografía, la práctica instrumental con teclado, la grabación del vídeo y su posterior edición y presentación final.<br /> <br /><strong>Productos del alumnado</strong><br />El alumnado elaborará una infografía interactiva sobre los instrumentos de la orquesta, realizará la interpretación individual de una pieza musical en teclado y creará un vídeo musical (videoclip) en parejas de su interpretación, en el que se incluya la grabación y edición de audio y vídeo, evidenciando así el desarrollo de la competencia artística y digital. Estos productos permiten evidenciar tanto el aprendizaje musical como el desarrollo de la competencia digital.</p>\n<p><strong>Herramientas tecnológicas y recursos</strong><br />Para el desarrollo de la propuesta se utilizarán:</p>\n<p>- Canva: creación de la infografía interactiva.<br />- Genially: creación de la infografía interactiva.<br />- Audacity: edición básica de audio.<br />- CapCut: edición de vídeo y audio.<br />- Tablets del centro para grabación y edición.<br />- Aula virtual o plataforma educativa para compartir los productos.<br /></p>\n<p>Recursos complementarios: <br />- Vídeos educativos de YouTube sobre la orquesta.<br />- Materiales elaborados por el docente (rúbricas, guías, partituras adaptadas, actividades de repaso interactivas...).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morekjw1-yxtosgarc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morekjw1-yxtosgarc</odePageId>
+      <odeBlockId>block-morekjwb-iuo1e65v7</odeBlockId>
+      <blockName>Justificación de su desarrollo e impacto esperado</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morekjw1-yxtosgarc</odePageId>
+          <odeBlockId>block-morekjwb-iuo1e65v7</odeBlockId>
+          <odeIdeviceId>idevice-morekjwb-4x4xpmsmt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La presente Situación de Aprendizaje surge de la necesidad de integrar la educación musical con el desarrollo de la competencia digital, superando un enfoque exclusivamente interpretativo para situar al alumnado como protagonista en la creación, interpretación y difusión de contenidos musicales. A través del trabajo sobre la orquesta, la práctica instrumental con teclado y la producción audiovisual, se promueve un aprendizaje significativo basado en la creatividad, la experimentación y el uso responsable de las tecnologías.</p>
+<p style="text-align: justify;">El impacto esperado se traduce en el desarrollo de la competencia en conciencia y expresión culturales y de la competencia digital, así como en la mejora de la autonomía, la motivación y la capacidad de trabajo en equipo del alumnado. Además, se favorece la transferencia de estos aprendizajes a otros contextos, formando alumnado capaz de expresarse de manera creativa y desenvolverse de forma crítica en entornos digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-morekjwb-4x4xpmsmt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La presente Situación de Aprendizaje surge de la necesidad de integrar la educación musical con el desarrollo de la competencia digital, superando un enfoque exclusivamente interpretativo para situar al alumnado como protagonista en la creación, interpretación y difusión de contenidos musicales. A través del trabajo sobre la orquesta, la práctica instrumental con teclado y la producción audiovisual, se promueve un aprendizaje significativo basado en la creatividad, la experimentación y el uso responsable de las tecnologías.</p>\n<p style=\"text-align: justify;\">El impacto esperado se traduce en el desarrollo de la competencia en conciencia y expresión culturales y de la competencia digital, así como en la mejora de la autonomía, la motivación y la capacidad de trabajo en equipo del alumnado. Además, se favorece la transferencia de estos aprendizajes a otros contextos, formando alumnado capaz de expresarse de manera creativa y desenvolverse de forma crítica en entornos digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morekjw1-yxtosgarc</odePageId>
+      <odeBlockId>block-1777914703086-ao1jchph1</odeBlockId>
+      <blockName>Relación de SdA con los ODS y Retos del siglo XXI</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morekjw1-yxtosgarc</odePageId>
+          <odeBlockId>block-1777914703086-ao1jchph1</odeBlockId>
+          <odeIdeviceId>idevice-1777914703087-l8o9ei13y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta Situación de Aprendizaje se vincula con diversos Objetivos de Desarrollo Sostenible de la Agenda 2030, contribuyendo a una educación integral y alineada con los retos actuales:</p>
+<p style="text-align: justify;"><strong><span style="text-decoration: underline;">ODS 4. Educación de calidad:</span> </strong>promueve un aprendizaje competencial, inclusivo y significativo, integrando la educación artística y digital mediante metodologías activas.<br /><strong><span style="text-decoration: underline;">ODS 9. Industria, innovación e infraestructura:</span> </strong>fomenta el uso creativo y responsable de herramientas tecnológicas para la producción de contenidos digitales.<br /><span style="text-decoration: underline;"><strong>ODS 10. Reducción de las desigualdades:</strong></span> garantiza la participación de todo el alumnado a través de principios del Diseño Universal para el Aprendizaje (DUA), respetando los diferentes ritmos y estilos de aprendizaje.<br /><br />En relación con los retos del siglo XXI, esta SdA contribuye especialmente a:</p>
+<p style="text-align: justify;">El desarrollo de la competencia digital, mediante la creación y edición de contenidos audiovisuales.<br />El fomento de la creatividad e innovación, a través de la interpretación y producción musical.<br />La mejora de la capacidad de trabajo en equipo, mediante dinámicas cooperativas.<br />El desarrollo del pensamiento crítico y la autonomía, al implicar al alumnado en procesos de creación y toma de decisiones.<br /><br />En conjunto, esta propuesta prepara al alumnado para desenvolverse en una sociedad cada vez más digitalizada, promoviendo un uso activo, responsable y creativo de la tecnología al servicio de la expresión artística y la comunicación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914703087-l8o9ei13y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta Situación de Aprendizaje se vincula con diversos Objetivos de Desarrollo Sostenible de la Agenda 2030, contribuyendo a una educación integral y alineada con los retos actuales:</p>\n<p style=\"text-align: justify;\"><strong><span style=\"text-decoration: underline;\">ODS 4. Educación de calidad:</span> </strong>promueve un aprendizaje competencial, inclusivo y significativo, integrando la educación artística y digital mediante metodologías activas.<br /><strong><span style=\"text-decoration: underline;\">ODS 9. Industria, innovación e infraestructura:</span> </strong>fomenta el uso creativo y responsable de herramientas tecnológicas para la producción de contenidos digitales.<br /><span style=\"text-decoration: underline;\"><strong>ODS 10. Reducción de las desigualdades:</strong></span> garantiza la participación de todo el alumnado a través de principios del Diseño Universal para el Aprendizaje (DUA), respetando los diferentes ritmos y estilos de aprendizaje.<br /><br />En relación con los retos del siglo XXI, esta SdA contribuye especialmente a:</p>\n<p style=\"text-align: justify;\">El desarrollo de la competencia digital, mediante la creación y edición de contenidos audiovisuales.<br />El fomento de la creatividad e innovación, a través de la interpretación y producción musical.<br />La mejora de la capacidad de trabajo en equipo, mediante dinámicas cooperativas.<br />El desarrollo del pensamiento crítico y la autonomía, al implicar al alumnado en procesos de creación y toma de decisiones.<br /><br />En conjunto, esta propuesta prepara al alumnado para desenvolverse en una sociedad cada vez más digitalizada, promoviendo un uso activo, responsable y creativo de la tecnología al servicio de la expresión artística y la comunicación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morekjw1-4vguyeb0r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morekjw1-4vguyeb0r</odePageId>
+      <odeBlockId>block-1777914771824-0a3easma9</odeBlockId>
+      <blockName>Tabla de Organización Curricular</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morekjw1-4vguyeb0r</odePageId>
+          <odeBlockId>block-1777914771824-0a3easma9</odeBlockId>
+          <odeIdeviceId>idevice-1777914771820-ngj0rtiqk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914771820-ngj0rtiqk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morekjw1-obq05upga</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morekjw1-obq05upga</odePageId>
+      <odeBlockId>block-1777915106295-fsojktkpn</odeBlockId>
+      <blockName>Aprendizaje Cooperativo</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morekjw1-obq05upga</odePageId>
+          <odeBlockId>block-1777915106295-fsojktkpn</odeBlockId>
+          <odeIdeviceId>idevice-1777915106262-7z469hq09</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La presente Situación de Aprendizaje se fundamenta principalmente en el Aprendizaje Cooperativo, favoreciendo un enfoque activo y participativo en el que el alumnado construye sus aprendizajes a través de la interacción con sus iguales. Para ello, se organizan agrupamientos heterogéneos en los que se promueve la interdependencia positiva, la responsabilidad individual y el desarrollo de habilidades sociales, mediante la asignación de roles y la consecución de objetivos comunes.</p>
+<p style="text-align: justify;">Esta metodología se concreta de manera significativa en las tareas propuestas. En la elaboración de la infografía interactiva sobre los instrumentos de la orquesta, el alumnado trabaja de forma cooperativa investigando, seleccionando información relevante y diseñando el producto final. Asimismo, en la creación del vídeo musical, el trabajo en parejas permite desarrollar la coordinación, la escucha activa y la toma de decisiones compartida, garantizando la participación equitativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777915106262-7z469hq09","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La presente Situación de Aprendizaje se fundamenta principalmente en el Aprendizaje Cooperativo, favoreciendo un enfoque activo y participativo en el que el alumnado construye sus aprendizajes a través de la interacción con sus iguales. Para ello, se organizan agrupamientos heterogéneos en los que se promueve la interdependencia positiva, la responsabilidad individual y el desarrollo de habilidades sociales, mediante la asignación de roles y la consecución de objetivos comunes.</p>\n<p style=\"text-align: justify;\">Esta metodología se concreta de manera significativa en las tareas propuestas. En la elaboración de la infografía interactiva sobre los instrumentos de la orquesta, el alumnado trabaja de forma cooperativa investigando, seleccionando información relevante y diseñando el producto final. Asimismo, en la creación del vídeo musical, el trabajo en parejas permite desarrollar la coordinación, la escucha activa y la toma de decisiones compartida, garantizando la participación equitativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morekjw1-obq05upga</odePageId>
+      <odeBlockId>block-1777926253046-5rfj12pm4</odeBlockId>
+      <blockName>Aprendizaje Basado en la Práctica</blockName>
+      <iconName>music</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morekjw1-obq05upga</odePageId>
+          <odeBlockId>block-1777926253046-5rfj12pm4</odeBlockId>
+          <odeIdeviceId>idevice-1777926253039-j2fthbei9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Además, la SdA incorpora un enfoque de aprendizaje basado en la práctica (learning by doing), donde el alumnado aprende mediante la experimentación directa a través de la interpretación instrumental, la grabación y la edición digital. De este modo, se favorece un aprendizaje significativo, competencial y motivador, en el que el alumnado se convierte en protagonista de su propio proceso de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777926253039-j2fthbei9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Además, la SdA incorpora un enfoque de aprendizaje basado en la práctica (learning by doing), donde el alumnado aprende mediante la experimentación directa a través de la interpretación instrumental, la grabación y la edición digital. De este modo, se favorece un aprendizaje significativo, competencial y motivador, en el que el alumnado se convierte en protagonista de su propio proceso de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morekjw1-va8nf80y6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morekjw1-va8nf80y6</odePageId>
+      <odeBlockId>block-1777915120847-qyetqb78g</odeBlockId>
+      <blockName>Contribución a Planes y Programas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morekjw1-va8nf80y6</odePageId>
+          <odeBlockId>block-1777915120847-qyetqb78g</odeBlockId>
+          <odeIdeviceId>idevice-1777915120845-it9sfw2kj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La presente Situación de Aprendizaje se vincula de manera directa con diversos planes y programas del centro, contribuyendo al desarrollo integral del alumnado desde una perspectiva interdisciplinar.</p>
+<p style="text-align: justify;">1. <strong>Plan de Lectura, Escritura e Investigación</strong> (PLEI), el alumnado realiza procesos de búsqueda, selección y organización de información sobre los instrumentos de la orquesta, desarrollando habilidades de comprensión lectora y producción escrita a través de la elaboración de la infografía. Asimismo, se fomenta el uso de un lenguaje adecuado y la capacidad de síntesis.</p>
+<p style="text-align: justify;">2. <strong>Programa de Digitalización o Competencia Digital</strong>, esta SdA tiene una especial relevancia, ya que el alumnado utiliza herramientas tecnológicas para la creación de contenidos digitales, como infografías y vídeos musicales. Esto implica el desarrollo de habilidades relacionadas con la alfabetización digital, el uso responsable de la tecnología y la edición básica de audio y vídeo.</p>
+<p style="text-align: justify;">3.<strong> Proyecto MUS-E </strong>,se establece una conexión con el programa de carácter artístico favoreciendo la expresión creativa, la educación emocional y la inclusión a través de la música. Además, el trabajo cooperativo y la exposición final de los productos contribuyen al <strong>Plan de Convivencia</strong>, promoviendo el respeto, la participación activa y la valoración del trabajo propio y ajeno.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777915120845-it9sfw2kj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La presente Situación de Aprendizaje se vincula de manera directa con diversos planes y programas del centro, contribuyendo al desarrollo integral del alumnado desde una perspectiva interdisciplinar.</p>\n<p style=\"text-align: justify;\">1. <strong>Plan de Lectura, Escritura e Investigación</strong> (PLEI), el alumnado realiza procesos de búsqueda, selección y organización de información sobre los instrumentos de la orquesta, desarrollando habilidades de comprensión lectora y producción escrita a través de la elaboración de la infografía. Asimismo, se fomenta el uso de un lenguaje adecuado y la capacidad de síntesis.</p>\n<p style=\"text-align: justify;\">2. <strong>Programa de Digitalización o Competencia Digital</strong>, esta SdA tiene una especial relevancia, ya que el alumnado utiliza herramientas tecnológicas para la creación de contenidos digitales, como infografías y vídeos musicales. Esto implica el desarrollo de habilidades relacionadas con la alfabetización digital, el uso responsable de la tecnología y la edición básica de audio y vídeo.</p>\n<p style=\"text-align: justify;\">3.<strong> Proyecto MUS-E </strong>,se establece una conexión con el programa de carácter artístico favoreciendo la expresión creativa, la educación emocional y la inclusión a través de la música. Además, el trabajo cooperativo y la exposición final de los productos contribuyen al <strong>Plan de Convivencia</strong>, promoviendo el respeto, la participación activa y la valoración del trabajo propio y ajeno.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morekjw1-7qkksl05s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morekjw1-7qkksl05s</odePageId>
+      <odeBlockId>block-1777915127079-npp7cenil</odeBlockId>
+      <blockName>Actividades complementarias</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morekjw1-7qkksl05s</odePageId>
+          <odeBlockId>block-1777915127079-npp7cenil</odeBlockId>
+          <odeIdeviceId>idevice-1777915127077-uylsh4f6w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Como actividad complementaria, se propone la proyección de los vídeos musicales elaborados por el alumnado durante el acto de graduación de 6º de Educación Primaria. Esta actividad permite dar visibilidad al trabajo realizado, reforzando la motivación del alumnado y favoreciendo el reconocimiento de su esfuerzo por parte de la comunidad educativa (familias, profesorado y compañeros). Además, contribuye al desarrollo de la competencia en comunicación y expresión artística en un contexto real.</p>
+<p style="text-align: justify;">Asimismo, en relación con posibles programas del centro como el proyecto MUS-E, se pueden llevar a cabo talleres o dinámicas de expresión musical y corporal, donde el alumnado tenga la oportunidad de explorar otras formas de creación artística, complementando el trabajo realizado en el aula.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777915127077-uylsh4f6w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Como actividad complementaria, se propone la proyección de los vídeos musicales elaborados por el alumnado durante el acto de graduación de 6º de Educación Primaria. Esta actividad permite dar visibilidad al trabajo realizado, reforzando la motivación del alumnado y favoreciendo el reconocimiento de su esfuerzo por parte de la comunidad educativa (familias, profesorado y compañeros). Además, contribuye al desarrollo de la competencia en comunicación y expresión artística en un contexto real.</p>\n<p style=\"text-align: justify;\">Asimismo, en relación con posibles programas del centro como el proyecto MUS-E, se pueden llevar a cabo talleres o dinámicas de expresión musical y corporal, donde el alumnado tenga la oportunidad de explorar otras formas de creación artística, complementando el trabajo realizado en el aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morekjw1-fxd1hthc7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morekjw1-fxd1hthc7</odePageId>
+      <odeBlockId>block-1777915764743-1z5a0wuub</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morekjw1-fxd1hthc7</odePageId>
+          <odeBlockId>block-1777915764743-1z5a0wuub</odeBlockId>
+          <odeIdeviceId>idevice-1777915764735-b66x2syyb</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Situación de Aprendizaje B2</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje para el alumnado de 6º de Educación Primaria del área de artística y música.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Jack Ball Menéndez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
